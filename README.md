@@ -16,6 +16,7 @@
 [![Version Badge](https://img.shields.io/badge/-v1.3.0-green)](https://github.com/SiliconLabs/circuitpython_applications/releases)
 [![CircuitPython](https://img.shields.io/badge/CircuitPython-v8.2.0+-green)](https://circuitpython.org/downloads?q=silabs)
 ![License badge](https://img.shields.io/badge/License-Zlib-green)
+![Static Badge](https://img.shields.io/badge/Security_Support-Not_Supported-red)
 
 This repository contains example projects that demonstrate various applications using CircuitPython on Silicon Labs Development Kits.
 All examples in this repository are considered to be EXPERIMENTAL QUALITY, which implies that the code provided in the repository has not been formally tested and is provided as-is. It is not suitable for production environments.
