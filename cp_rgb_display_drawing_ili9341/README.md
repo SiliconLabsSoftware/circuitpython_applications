@@ -1,8 +1,12 @@
 # CircuitPython - RGB Display Drawing (ILI9341) #
 
-![Type badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/circuitpython/cp_rgb_display_drawing_ili9341_common.json&label=Type&query=type&color=green)
-![Technology badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/circuitpython/cp_rgb_display_drawing_ili9341_common.json&label=Technology&query=technology&color=green)
-![License badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/circuitpython/cp_rgb_display_drawing_ili9341_common.json&label=License&query=license&color=green)
+![Technology badge](https://img.shields.io/badge/Technology-Circuit%20Python-green)
+![License badge](https://img.shields.io/badge/License-Zlib-green)
+
+[![Type badge](https://img.shields.io/badge/Appliances-salmon)](https://siliconlabs-massmarket.github.io/repository-catalog/#applications-list?filter=Appliances)
+[![Type badge](https://img.shields.io/badge/Entertainment%20Devices-salmon)](https://siliconlabs-massmarket.github.io/repository-catalog/#applications-list?filter=Entertainment%20Devices)
+[![Type badge](https://img.shields.io/badge/Human%20Machine%20Interface-salmon)](https://siliconlabs-massmarket.github.io/repository-catalog/#applications-list?filter=Human%20Machine%20Interface)
+
 ## Summary ##
 
 This example application code demonstrates how to use CircuitPython and the adafruit_rgb_display and adafruit_touchscreen drivers on Silabs development kits, such as "Sparkfun ThingPlus Matter board," the "xG24 explorer kit," and the "xG24 devkit."

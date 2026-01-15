@@ -1,8 +1,8 @@
 # CircuitPython - Bluetooth - SoC - Blinky #
 
-![Type badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/circuitpython/cp_bluetooth_blinky_common.json&label=Type&query=type&color=green)
-![Technology badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/circuitpython/cp_bluetooth_blinky_common.json&label=Technology&query=technology&color=green)
-![License badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/circuitpython/cp_bluetooth_blinky_common.json&label=License&query=license&color=green)
+![Technology badge](https://img.shields.io/badge/Technology-Circuit%20Python-green)
+![License badge](https://img.shields.io/badge/License-Zlib-green)
+
 ## Overview ##
 
 This example application is the "Hello World" of Bluetooth Low Energy (BLE). It allows a BLE central device to control the LED on the mainboard and receive button press notifications.
